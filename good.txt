@@ -1,0 +1,14 @@
+#inclaude<stdio.h>
+
+int main(void) {
+	printf("hello world");
+	rteurn 0;
+}
+---------------------java------------------------------
+public class Main{
+	public static void main(String[] args) {
+
+		System.out.println("hello world");
+	}
+}
+
