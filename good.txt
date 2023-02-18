@@ -14,3 +14,4 @@ public class Main{
 // 这就是用vim编辑的感觉吗
 // 我再添加一行喽
 // test1
+// master 冲突位置
